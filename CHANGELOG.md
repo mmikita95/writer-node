@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.1 (2024-07-17)
+
+Full Changelog: [v0.3.0...v0.3.1](https://github.com/writer/writer-node/compare/v0.3.0...v0.3.1)
+
+### Chores
+
+* **internal:** version bump ([#28](https://github.com/writer/writer-node/issues/28)) ([254dd3c](https://github.com/writer/writer-node/commit/254dd3cc6595271fc239b42e2a8d2ebb683f7a9a))
+
 ## 0.3.0 (2024-07-16)
 
 Full Changelog: [v0.2.0...v0.3.0](https://github.com/writer/writer-node/compare/v0.2.0...v0.3.0)
